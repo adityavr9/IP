@@ -13,8 +13,8 @@
 # Quadtry --> Indexing structure, Systems
 # Many Funtional Programming languages use the paradigm of recursion.
 # Recursion is not always helpful
-# If we reduce our steps at every steps by 2, then our problem will be solves in logn2.
-# During recursive call all the memory is taken at once.
+# If we reduce our steps at every steps by 2, then our problem will be solved in logn2.
+# During recursive call all the memory is used at once.
 # Efficiency includes both time and space.
 
 
